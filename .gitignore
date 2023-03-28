@@ -1,7 +1,6 @@
 .idea
 .DS_Store
 .vscode
-own
 /log
 *.log
 /vendor
